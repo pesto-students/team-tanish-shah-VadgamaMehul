@@ -1,94 +1,118 @@
 :root {
-   --theme-color: #7395AE;
-   --theme-dark-color: #557A95;
-   --primary-font-color: #5D5C61;
+   --theme-color: #7395ae;
+   --theme-dark-color: #557a95;
+   --primary-font-color: #5d5c61;
    --link-font-color: white;
-}
-
-body {
+ }
+ 
+ body {
    font-family: Helvetica, sans-serif;
    color: var(--primary-font-color);
    padding: 10px;
-}
-
-a {
+ }
+ 
+ a {
    text-decoration: none;
    color: var(--theme-dark-color);
-}
-
-header {
+ }
+ 
+ header {
    margin: 0;
-}
-
-header > h1 {
+ }
+ 
+ header > h1 {
    color: var(--theme-dark-color);
    font-size: 2rem;
    margin: 10px 0;
    text-shadow: 2px 2px 3px gray;
-}
-
-nav {
+ }
+ 
+ nav {
    background-color: var(--theme-color);
-}
-
-nav ul {
+ }
+ 
+ nav ul {
    list-style-type: none;
    padding: 10px 0;
-}
-
-nav li {
+ }
+ 
+ nav li {
    padding: 10px 0;
-}
-
-nav li a {
+ }
+ 
+ nav li a {
    padding: 10px 20px;
    color: var(--link-font-color);
-}
-
-nav li a:hover {
+ }
+ 
+ nav li a:hover {
    background-color: var(--theme-dark-color);
-}
-
-nav {
+ }
+ 
+ nav {
    font-size: larger;
-}
-
-main {
+ }
+ 
+ main {
    margin: 0;
-}
-
-main > section {
+ }
+ 
+ main > section {
    margin-top: 10px;
    padding-top: 10px;
-}
-
-.benefits-inner-container {
+ }
+ 
+ .benefits-inner-container {
    display: flex;
    flex-direction: row;
-}
-
-.benefits-container {
+ }
+ 
+ .benefits-container {
    display: flex;
    flex-direction: column;
-}
-
-.benefit {
+ }
+ 
+ .benefit {
    color: var(--theme-dark-color);
    margin-left: 10px;
    margin-right: 20px;
-}
-
-.vacation-container {
+ }
+ 
+ .vacation-container {
    display: flex;
    flex-direction: column;
-}
-
-.vacation-container img {
+ }
+ 
+ .vacation-container img {
    width: 95%;
-}
-
-/* TODO: Add media query for 600px breakpoint */
-
-/* TODO: Add media query for 700px breakpoint */
-
-/* TODO: Add media query for 800px breakpoint */
+ }
+ 
+ /* TODO: Add media query for 600px breakpoint */
+ @media (min-width: 600px) {
+   .benefits-container {
+     flex-direction: row;
+   }
+ }
+ 
+ /* TODO: Add media query for 700px breakpoint */
+ @media (min-width: 700px) {
+   nav li {
+     display: inline;
+   }
+   header > h1 {
+     font-size: 3rem;
+   }
+ }
+ 
+ /* TODO: Add media query for 800px breakpoint */
+ @media (min-width: 800px) {
+   .vacation-container {
+     flex-direction: row;
+   }
+   .vacation-container div {
+     margin: 20px;
+   }
+   .vacation-container img {
+     width: 50vw;
+   }
+ }
