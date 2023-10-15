@@ -1,0 +1,14 @@
+input{
+    margin-left: 10px;
+    margin-right: 20px;
+    
+    /* background-color: aqua; */
+}
+
+button{
+    color: rgb(27, 27, 27);
+ padding: 5px 20px;
+ border: 1px solid;
+ border-radius: 1000px;
+ display: inline-block;
+}
