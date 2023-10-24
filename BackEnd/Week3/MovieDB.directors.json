@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "65378d66a645e01c34fe322c"
+  },
+  "name": "Quentin Tarantino",
+  "nationality": "American",
+  "movies_directed": [
+    "Pulp Fiction",
+    "Django Unchained"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378d66a645e01c34fe322d"
+  },
+  "name": "James Cameron",
+  "nationality": "Canadian",
+  "movies_directed": [
+    "Avatar",
+    "Titanic"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378d66a645e01c34fe322e"
+  },
+  "name": "Francis Ford Coppola",
+  "nationality": "American",
+  "movies_directed": [
+    "The Godfather",
+    "Apocalypse Now"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378d66a645e01c34fe322f"
+  },
+  "name": "Robert Zemeckis",
+  "nationality": "American",
+  "movies_directed": [
+    "Forrest Gump",
+    "Back to the Future"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378d66a645e01c34fe3230"
+  },
+  "name": "Martin Scorsese",
+  "nationality": "American",
+  "movies_directed": [
+    "Goodfellas",
+    "The Irishman"
+  ]
+}]

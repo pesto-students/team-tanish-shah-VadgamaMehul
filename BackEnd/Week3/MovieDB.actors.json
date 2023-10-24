@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3231"
+  },
+  "name": "Marlon Brando",
+  "nationality": "American",
+  "movies_acted_in": [
+    "The Godfather",
+    "Apocalypse Now"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3232"
+  },
+  "name": "Al Pacino",
+  "nationality": "American",
+  "movies_acted_in": [
+    "The Godfather",
+    "Scarface"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3233"
+  },
+  "name": "Samuel L. Jackson",
+  "nationality": "American",
+  "movies_acted_in": [
+    "Pulp Fiction",
+    "Django Unchained"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3234"
+  },
+  "name": "Uma Thurman",
+  "nationality": "American",
+  "movies_acted_in": [
+    "Pulp Fiction",
+    "Kill Bill"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3235"
+  },
+  "name": "Sigourney Weaver",
+  "nationality": "American",
+  "movies_acted_in": [
+    "Aliens",
+    "Avatar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3236"
+  },
+  "name": "Cate Blanchett",
+  "nationality": "Australian",
+  "movies_acted_in": [
+    "The Lord of the Rings: The Fellowship of the Ring",
+    "Blue Jasmine"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3237"
+  },
+  "name": "Denzel Washington",
+  "nationality": "American",
+  "movies_acted_in": [
+    "Training Day",
+    "Glory",
+    "Malcolm X"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378e56a645e01c34fe3238"
+  },
+  "name": "Natalie Portman",
+  "nationality": "Israeli-American",
+  "movies_acted_in": [
+    "Black Swan",
+    "V for Vendetta",
+    "Leon: The Professional"
+  ]
+}]

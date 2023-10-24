@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3222"
+  },
+  "title": "The Godfather",
+  "release_year": 1972,
+  "genre": "Crime",
+  "director": "Francis Ford Coppola",
+  "actors": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3223"
+  },
+  "title": "Pulp Fiction",
+  "release_year": 1994,
+  "genre": "Crime",
+  "director": "Quentin Tarantino",
+  "actors": [
+    "John Travolta",
+    "Samuel L. Jackson",
+    "Uma Thurman"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3224"
+  },
+  "title": "Avatar",
+  "release_year": 2009,
+  "genre": "Science Fiction",
+  "director": "James Cameron",
+  "actors": [
+    "Sam Worthington",
+    "Zoe Saldana",
+    "Sigourney Weaver"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3225"
+  },
+  "title": "The Dark Knight",
+  "release_year": 2008,
+  "genre": "Action",
+  "director": "Christopher Nolan",
+  "actors": [
+    "Christian Bale",
+    "Heath Ledger",
+    "Aaron Eckhart"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3226"
+  },
+  "title": "Forrest Gump",
+  "release_year": 1994,
+  "genre": "Drama",
+  "director": "Robert Zemeckis",
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3227"
+  },
+  "title": "The Matrix",
+  "release_year": 1999,
+  "genre": "Science Fiction",
+  "director": "The Wachowskis",
+  "actors": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3228"
+  },
+  "title": "The Silence of the Lambs",
+  "release_year": 1991,
+  "genre": "Crime",
+  "director": "Jonathan Demme",
+  "actors": [
+    "Anthony Hopkins",
+    "Jodie Foster",
+    "Scott Glenn"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe3229"
+  },
+  "title": "Schindler's List",
+  "release_year": 1993,
+  "genre": "Drama",
+  "director": "Steven Spielberg",
+  "actors": [
+    "Liam Neeson",
+    "Ralph Fiennes",
+    "Ben Kingsley"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe322a"
+  },
+  "title": "The Lord of the Rings: The Fellowship of the Ring",
+  "release_year": 2001,
+  "genre": "Fantasy",
+  "director": "Peter Jackson",
+  "actors": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Viggo Mortensen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65378cc5a645e01c34fe322b"
+  },
+  "title": "Forrest Gump",
+  "release_year": 1994,
+  "genre": "Drama",
+  "director": "Robert Zemeckis",
+  "actors": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise"
+  ]
+}]
